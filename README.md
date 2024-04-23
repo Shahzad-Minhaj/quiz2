@@ -1,4 +1,4 @@
-
+### JAVASCRIPT TASK
 This repository contains the code for Quiz No 2, developed as part of a hackathon task assigned by Saylani Mass IT, Peshawar. The project was completed within a timeframe of 6 hours during the hackathon.
 
 ### Quiz No 2
